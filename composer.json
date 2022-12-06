@@ -1,0 +1,7 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "^3.252",
+        "phpunit/phpunit": "^9.5",
+        "ramsey/uuid": "^4.2"
+    }
+}
